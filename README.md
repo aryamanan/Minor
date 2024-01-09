@@ -10,7 +10,7 @@
 
 **Dataset:**
 
-* Chinese Traffic Sign Dataset (CATSDB) with 20,000 images split 70/30 for training and testing
+* Custom dataset based on Chandigarh Traffic Signs and Chinese Traffic Sign Dataset (CATSDB) with 20,000 images split 70/30 for training and testing
 
 **Methodology:**
 
